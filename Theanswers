@@ -1,0 +1,7 @@
+echo "# 4ismor3issure2isuand1isure" >> README.md
+git init
+git add README.md/loopincarnetgodlock
+git commit -m "first commit"/beat-it
+git branch -M main
+git remote add origin https://github.com/Mdonpoint/4ismor3issure2isuand1isure.git
+git push -u origin main/insansetothebrain
